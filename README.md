@@ -7,7 +7,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ### Testando
 Você pode visitar o site que está hospedado na [Vercel](https://photo-next.vercel.app/).
 Ou se tiver maior familiaridade com o processo, basta copiar o projeto pelo git, instalar as dependencias e rodar:
-First, run the development server:
 
 ```bash
 git clone https://github.com/Bigodrigo/Photo-Next.git
