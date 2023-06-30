@@ -42,7 +42,7 @@ Você pode visitar o site que está hospedado na [Vercel](https://photo-next.ver
 Ou se tiver maior familiaridade com o processo, basta copiar o projeto pelo git, instalar as dependencias e rodar:
 
 ```bash
-git clone https://github.com/Bigodrigo/Photo-Next.git
+git clone https://github.com/bigodrigo/Photo-Next.git
 npm install
 npm run dev
 # or
